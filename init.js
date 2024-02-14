@@ -14,4 +14,4 @@
 ##  © MRFDEV.com - All Rights Reserved
 ##
 */
-setTimeout(function(){if(!document.head.querySelector('link[href*="'+chrome.runtime.getURL("resources/youtube-polymer.css")+'"'))try{chrome.runtime.sendMessage({request:"content-scripts"})}catch(a){}},3E3);
+"www.youtube.com"===document.location.host&&chrome.runtime.sendMessage({request:"content-scripts"});

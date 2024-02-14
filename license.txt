@@ -11,8 +11,9 @@ If You do not agree to the terms of this License, do not download, do not instal
   • “Google” means Google LLC, its affiliated entities, and the Google Chrome Web Store team.
   • “Microsoft” means Microsoft Corporation, its affiliated entities, and the Microsoft Edge Extensions team.
   • “Mozilla” means Mozilla Corporation, its affiliated entities, and the Mozilla Add-ons team.
-  • “Authorized Companies” means Google, Microsoft, Mozilla.
-  • “Authorized Online Platforms” means Google Chrome Web Store (https://chrome.google.com/webstore), Microsoft Edge Add-ons (https://microsoftedge.microsoft.com/addons), AMO (https://addons.mozilla.org).
+  • “Opera” means Opera Software, its affiliated entities, and the Opera Add-ons team.
+  • “Authorized Companies” means Google, Microsoft, Mozilla, Opera.
+  • “Authorized Online Platforms” means Google Chrome Web Store (https://chrome.google.com/webstore), Microsoft Edge Add-ons (https://microsoftedge.microsoft.com/addons), AMO (https://addons.mozilla.org), Opera Add-ons (https://addons.opera.com).
   • “Reviewers” means persons in charge of reviewing the Source Code prior to distribute Enhancer for YouTube™ to End-Users.
   • “Authorized Persons” means people who have been granted rights by The Developer.
   • “End-Users” means individuals who install and use Enhancer for YouTube™, or to whom Enhancer for YouTube™ is promoted.
