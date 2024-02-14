@@ -1,8 +1,8 @@
 {
-"update_url": "https://clients2.google.com/service/update2/crx",
+
 
 	"manifest_version": 3,
-	"name": "Enhancer for YouTube™",
+	"name": "Enhancer Made By Muhammad Haris",
 	"description": "__MSG_description__",
 	"version": "2.0.122.1",
 
@@ -28,7 +28,7 @@
 			"24": "icons/24.png",
 			"32": "icons/32.png"
 		},
-		"default_title": "Enhancer for YouTube™"
+		"default_title": "Enhancer Made By Muhammad Haris"
 	},
 
 	"options_page": "options.html",
