@@ -6,7 +6,7 @@
 	"description": "__MSG_description__",
 	"version": "2.0.122.1",
 
-	"minimum_chrome_version": "120.0.0.0",
+	"minimum_chrome_version": "102.0.5005.167",
 
 	"default_locale": "en_US",
 
